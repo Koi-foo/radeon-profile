@@ -695,7 +695,7 @@
     <message>
         <location filename="../gpu.cpp" line="772"/>
         <source>Supported modes</source>
-        <translation>Поддерживаемые модели</translation>
+        <translation>Поддерживаемые режимы</translation>
     </message>
     <message>
         <location filename="../gpu.cpp" line="795"/>
